@@ -1,23 +1,29 @@
-/* Website template by freewebsitetemplates.com */
-body {
-	margin: 0;
-	padding: 0;
-	position: relative;
-	width: auto;
+body
+{
+    background: #aaaaaa;
 }
-body #page {
-	margin: 0;
-	overflow: hidden;
-	padding: 0;
-	width: auto;
+
+.mr-3
+{
+    max-height: 16rem;
 }
-a {
-	text-decoration: none;
-	outline: none;
+
+#jumbo
+{
+    background-image: url("../images/back.png") !important;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    color: white;
 }
-a:active {
-	background: none;
+
+#jumbo-container
+{
+    min-width: 100%;
+    background-color: #595959;
 }
-img {
-	border: none;
+
+#footer
+{
+    border-radius: 2rem;
 }
