@@ -1,4 +1,4 @@
-body
+html
 {
     background: #aaaaaa;
 }
@@ -23,7 +23,3 @@ body
     background-color: #595959;
 }
 
-#footer
-{
-    border-radius: 2rem;
-}
