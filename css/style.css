@@ -10,7 +10,7 @@ html
 
 #jumbo
 {
-    background-image: url("../images/back.png") !important;
+    background-image: url("../images/back.jpg") !important;
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -19,7 +19,7 @@ html
 
 #jumbo-container
 {
-    min-width: 100%;
-    background-color: #595959;
+    /*min-width: 100%;*/
+    background-color: #aaaaaa;
 }
 
