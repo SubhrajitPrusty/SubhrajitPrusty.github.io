@@ -9,7 +9,7 @@ html,body
 @font-face
 {
 	font-family: Dimitri;
-	src: url('../fonts/DIMIS___.ttf');
+	src: url('DIMIS___.ttf');
 }
 
 canvas
