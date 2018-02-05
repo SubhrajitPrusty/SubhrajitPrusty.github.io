@@ -6,11 +6,16 @@ html,body
 	padding: 0;
 }
 
-@font-face
-{
-	font-family: Dimitri;
-	src: url('DIMIS___.ttf');
+@font-face {
+	font-family: 'Dimitri';
+	src: url('../fonts/DIMIS___.eot');
+	src: url('../fonts/DIMIS___.woff') format('woff'),
+		 url('../fonts/DIMIS___.ttf') format('truetype'),
+		 url('../fonts/DIMIS___.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
 }
+
 
 canvas
 { 
