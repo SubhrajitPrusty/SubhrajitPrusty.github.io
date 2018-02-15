@@ -8,14 +8,17 @@ html,body
 
 @font-face {
 	font-family: 'Dimitri';
-	src: url('../fonts/DIMIS___.eot');
-	src: url('../fonts/DIMIS___.woff') format('woff'),
-		 url('../fonts/DIMIS___.ttf') format('truetype'),
-		 url('../fonts/DIMIS___.svg') format('svg');
+	src: url('../fonts/DIMIS___.ttf') format('truetype');
 	font-weight: normal;
 	font-style: normal;
 }
 
+@font-face {
+	font-family: "Squared Display";
+	src: url('../fonts/Squared Display.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
 
 canvas
 { 
@@ -46,6 +49,7 @@ canvas
 	left: 25%;
 	position: absolute;
 	font-family: Dimitri;
+	/*font-family: Squared Display;*/
 	text-align: center;
 	font-size: 6vw;
 	color: #eeeeee;
