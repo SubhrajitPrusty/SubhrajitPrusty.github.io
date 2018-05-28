@@ -56,6 +56,11 @@ canvas
 	max-width: 100%;
 }
 
+#intro-text:hover
+{
+	cursor:pointer;
+}
+
 .btn
 {
 	font-size: 1.5rem !important;
