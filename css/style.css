@@ -13,17 +13,16 @@ html,body
 	font-style: normal;
 }
 
-@font-face {
-	font-family: "Squared Display";
-	src: url('../fonts/Squared Display.ttf') format('truetype');
-	font-weight: normal;
-	font-style: normal;
+.grid-container {
+	width: 100%;
+	height: 100%;
+	display: grid;
+	grid-template-columns: auto auto auto;
+	padding: 10px;
 }
-
-canvas
-{ 
-	display: block;
-	vertical-align: bottom;
+.grid-item {
+	text-align: center;
+	text-align: center;
 }
 
 .hidden
@@ -33,63 +32,57 @@ canvas
 
 #particles-js
 {
+	z-index: -1;
 	width: 100%;
 	height: 100%;
 	position: absolute;
-	background-color: #111;
+	background-color: #101010;
 	background-repeat: no-repeat;
 	background-size: cover;
-	background-position: 50% 50%;
-	max-width: 100%;
+	background-position: center center;
+	/* max-width: 100%; */
 }
 
-#intro-text
+canvas
 {
-	margin-top: 15%; 
-	left: 25%;
-	position: absolute;
-	font-family: Dimitri;
-	/*font-family: Squared Display;*/
-	text-align: center;
-	font-size: 6vw;
-	color: #eeeeee;
-	max-width: 100%;
+	z-index: 0;
+	display: block;
 }
 
-#intro-text:hover
+#bigtext
+{
+	font-family: Dimitri;
+	text-align: center;
+	font-size: 8vw;
+	color: #eeeeee;
+}
+
+#bigtext:hover
 {
 	cursor:pointer;
 }
 
 .btn
 {
-	font-size: 1.5rem !important;
-}
-
-#link-container
-{
-	margin: 0 auto;
-	position: relative;
+	font-size: 2rem !important;
 }
 
 
-table
-{
-	top: 33%;
-	position: absolute;
+@media (max-width:500px) {
+	.btn
+	{
+		font-size: 1rem !important;
+	}
+
+	#bigtext
+	{
+		font-size: 16vw;
+	}
 }
 
-td
-{
-	width: 33%;
-	align-content: center;
-	text-align: center;
-}
-
-@media (max-width:800px) {
-.btn
-{
-	font-size: 1rem !important;;
-}
-
+@media (max-width:350px) {
+	.btn
+	{
+		font-size: 0.6rem !important;
+	}
 }
