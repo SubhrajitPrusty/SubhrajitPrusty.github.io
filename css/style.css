@@ -51,12 +51,18 @@ canvas
 	display: block;
 }
 
+#link-container
+{
+	pointer-events: auto;
+}
+
 #bigtext
 {
 	font-family: Dimitri;
 	text-align: center;
 	font-size: 8vw;
 	color: #eeeeee;
+	pointer-events: auto;
 }
 
 #bigtext:hover
