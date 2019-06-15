@@ -18,4 +18,11 @@ Some projects that I'm really proud of.
 
 You can find the full source code of my projects on [GitHub](https://github.com/SubhrajitPrusty).
 
+## Contact
 
+If you wish to contact me:
+
+- [LinkedIn](https://www.linkedin.com/in/subhrajitprusty)
+- [Facebook](https://facebook.com/subhrajitprusty17)
+- [Twitter](https://twitter.com/subhrajit_)
+- [eMail](mailto:subhrajit1997@gmail.com)
