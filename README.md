@@ -2,5 +2,5 @@
 
 Simple(?) website
 
-Theme: (Researcher](https://github.com/ankitsultana/researcher) with my own mix
-Animations: [particles-js](https://github.com/VincentGarreau/particles.js)
+- Theme: [Researcher](https://github.com/ankitsultana/researcher) with my own mix
+- Animations: [particles-js](https://github.com/VincentGarreau/particles.js)
