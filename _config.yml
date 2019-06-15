@@ -7,7 +7,7 @@ markdown: kramdown
 
 tracking_id: #
 
-footer: yes
+footer: no
 footer_url: "https://github.com/SubhrajitPrusty"
 footer_text: Subhrajit Prusty
 
