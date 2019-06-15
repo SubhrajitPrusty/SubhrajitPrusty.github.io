@@ -20,3 +20,7 @@ nav:
    link: "/"
  - name: "Resume"
    link: "public/cv.pdf"
+
+
+js: app.js
+json: package.json
