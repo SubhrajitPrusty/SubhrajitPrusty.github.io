@@ -3,7 +3,7 @@ url: "https://subhrajitpy.me"
 baseurl: "/"
 
 markdown: kramdown
-ins_logo: media/favicon.png
+#ins_logo: ./media/favicon.png
 
 tracking_id: #
 
