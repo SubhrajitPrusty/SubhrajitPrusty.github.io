@@ -18,4 +18,3 @@ Some projects that I'm really proud of.
 
 You can find the full source code of my projects on [GitHub](https://github.com/SubhrajitPrusty).
 
-
