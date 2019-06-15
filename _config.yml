@@ -3,12 +3,13 @@ url: "https://subhrajitpy.me"
 baseurl: "/"
 
 markdown: kramdown
-#ins_logo: "./bits-logo.png"
+ins_logo: media/favicon.png
 
 tracking_id: #
 
 footer: yes
 footer_url: "https://github.com/SubhrajitPrusty"
+footer_text: Subhrajit Prusty
 
 sass:
     style: compressed
@@ -20,4 +21,4 @@ nav:
  - name: "Resume"
    link: "public/cv.pdf"
  - name: "Contact"
-   link: "contact.md"
+   link: "contact"
