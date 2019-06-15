@@ -1,0 +1,23 @@
+title: Subhrajit Prusty
+url: "https://subhrajitpy.me"
+baseurl: "/"
+
+markdown: kramdown
+#ins_logo: "./bits-logo.png"
+
+tracking_id: #
+
+footer: yes
+footer_url: "https://github.com/SubhrajitPrusty"
+
+sass:
+    style: compressed
+    sass_dir: _sass
+
+nav:
+ - name: "About"
+   link: "/"
+ - name: "Resume"
+   link: "public/cv.pdf"
+ - name: "Contact"
+   link: "contact.md"
