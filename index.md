@@ -2,8 +2,6 @@
 layout: default
 ---
 
-Hi! Welcome to my website.
-
 ## About Me
 
 Hi! I am a final year student of B.Tech. Computer Science & Information Technology at Institute of Technical Education and Research, Bhubaneswar.
