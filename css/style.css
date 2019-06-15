@@ -56,7 +56,7 @@ canvas
 	pointer-events: auto;
 }
 
-#bigtext
+#bigtext>h1
 {
 	font-family: Dimitri;
 	text-align: center;
