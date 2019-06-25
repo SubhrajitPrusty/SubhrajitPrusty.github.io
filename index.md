@@ -5,7 +5,7 @@ layout: default
 ## About Me
 
 Hi! I am a final year student of B.Tech. Computer Science & Information Technology at Institute of Technical Education and Research, Bhubaneswar.
-I am a Tech Enthusiast whole loves Linux. I'm an avid open-source developer and a *very salty* gamer.
+I am a Tech Enthusiast who loves Linux. I'm an avid open-source developer and a *very salty* gamer.
 
 ## Projects
 
