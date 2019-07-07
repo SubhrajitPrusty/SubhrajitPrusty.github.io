@@ -15,8 +15,15 @@ body {
     height: 100%;
 	color: #eeeeee;
 	background-color: #111111;
-	overflow: hidden;
+	// overflow: hidden;
+	scrollbar-width: none;
+	-ms-overflow-style: none;
 }
+
+::-webkit-scrollbar {
+	display: none;
+}
+
 a {
     text-decoration: none;
     color: $accent;
