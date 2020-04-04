@@ -5,4 +5,4 @@ layout: default
 
 ## Buy me a coffee
 
-<img src="./media/donate.png" width="50%" alt="Donate">
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L4L2YNK9)
