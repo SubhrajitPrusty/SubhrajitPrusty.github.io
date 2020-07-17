@@ -1,4 +1,4 @@
-[![subhrajitpy.me](https://img.shields.io/badge/subhrajit-prusty-blue.svg?longCache=true&style=for-the-badge)](https://subhrajitpy.me)
+[![subhrajitpy.me](https://img.shields.io/badge/subhrajit-prusty-blue.svg?longCache=true&style=for-the-badge)](https://subhrajitprusty.github.io)
 
 Simple(?) website
 
