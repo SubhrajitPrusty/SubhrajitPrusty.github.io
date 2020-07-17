@@ -22,6 +22,8 @@ nav:
    link: "public/cv.pdf"
  - name: "Donate"
    link: "donate"
+ - name: Twitch
+   link: /twitch
 
 
 js: app.js
