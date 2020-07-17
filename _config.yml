@@ -20,10 +20,10 @@ nav:
    link: "/"
  - name: "Resume"
    link: "public/cv.pdf"
- - name: "Donate"
-   link: "donate"
  - name: Twitch
    link: /twitch
+ - name: "Donate"
+   link: "donate"
 
 
 js: app.js
