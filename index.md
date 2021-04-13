@@ -4,8 +4,9 @@ layout: default
 
 ## About Me
 
-Hi! I am a final year student of B.Tech. Computer Science & Information Technology at Institute of Technical Education and Research, Bhubaneswar.
-I am a Tech Enthusiast who loves Linux. I'm an avid open-source developer and (sometimes) a *very salty* gamer.
+Hi! I am a Solutions Engineer @ Vernacular.ai. 
+I am a Tech Enthusiast, who loves Linux. I'm an avid open-source developer and (sometimes) a *very salty* gamer.
+You can talk to me about games, tech and music.
 
 I've been passionate about DevOps for a long time. I worked extensively with Docker on a Gitlab environment to facilitate CI/CD on my internship at racetrack.ai.
 I also worked on a Python backend (falcon) based business solution platform and helped maintain the backend code of Marvin - a conversational AI.
