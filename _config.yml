@@ -20,8 +20,8 @@ nav:
    link: "/"
  - name: "Resume"
    link: "public/cv.pdf"
- - name: Twitch
-   link: /twitch
+ - name: Youtube
+   link: /youtube
  - name: "Donate"
    link: "donate"
 
