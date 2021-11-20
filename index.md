@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 
-Hi! Curerntly, I am a Solutions Engineer @ [Skit](skit.ai). 
+Hi! Curerntly, I am a Solutions Engineer @ [Skit](https://skit.ai). 
 I am a Tech Enthusiast, who loves Linux. I'm an avid open-source supporter.
 You can talk to me about games, tech and music.
 
