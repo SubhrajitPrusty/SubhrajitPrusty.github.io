@@ -4,8 +4,8 @@ layout: default
 
 ## About Me
 
-Hi! I am a Solutions Engineer @ Vernacular.ai. 
-I am a Tech Enthusiast, who loves Linux. I'm an avid open-source developer and (sometimes) a *very salty* gamer.
+Hi! Curerntly, I am a Solutions Engineer @ [Skit](skit.ai). 
+I am a Tech Enthusiast, who loves Linux. I'm an avid open-source supporter.
 You can talk to me about games, tech and music.
 
 I've been passionate about DevOps for a long time. I worked extensively with Docker on a Gitlab environment to facilitate CI/CD on my internship at racetrack.ai.
