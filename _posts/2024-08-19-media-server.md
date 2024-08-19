@@ -293,4 +293,23 @@ Now this will sync your Kodi library with Jellyfin library so that you can prese
 
 There are a lot of tips and tricks I've probably missed out on. I've been torrenting stuff for years now and you pick up on stuff over time. Like understanding media quality and codecs from the title of torrents, picking up best sources etc.
 
-Cant really put everything in one single article. Feel free to open issues for discussion and I'll keep updating this doc.
+Cant really put everything in one single article. Feel free to open issues for discussion.
+
+
+---
+
+You'll find better and more in-depth guides about these services elsewhere on the internet. I'll add some of them when I come across them.
+But this is how I've done my setup and this guide can be used as a good basic config for everything.
+
+I have Bazarr setup as well but I dont use it as much. Only use it to find subtitles when my any of the media dont have subs + Jellyfin + Kodi plugins for finding subtitles also fail.
+
+
+I'll keep updating this doc whenever I get around to setup other things like Prowlarr, Jellyseer, Lidarr, etc. (Except Plex, it fucking sucks)
+
+
+# Other cool resources
+
+- [Trash Guides](https://trash-guides.info/)
+- [Servarr Wiki](https://wiki.servarr.com/)
+- [Reddit](https://www.reddit.com/r/Piracy/comments/pqsomd/the_complete_guide_to_building_your_personal_self/)
+- [HomeServer Reddit](https://www.reddit.com/r/HomeServer/)
