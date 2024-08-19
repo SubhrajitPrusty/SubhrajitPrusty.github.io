@@ -1,4 +1,4 @@
 ---
-layout: default
-is_contact: false
+layout: page
+title: "Blogs"
 ---
