@@ -24,7 +24,7 @@ nav:
  - name: Youtube
    link: /youtube
  - name: "Blog"
-   link: "blogs"
+   link: "posts"
 
 js: app.js
 json: package.json
