@@ -242,12 +242,16 @@ Configuration:
 
 - Dashboard → Libraries → Add Media Library → Your library folder(s).
 - Dashboard → Users → ➕ → Add User: To create a new user
-    - Use this username and password on your remote devices to access your library.
+- Use this username and password on your remote devices to access your library.
 
 <aside>
 💡 To access your Jellyfin server remotely via different devices, you may need to configure firewall and port forward the proper ports on your host machine (and router)
 
 </aside>
+
+</br>
+
+![Jellyfin homepage](/media/jellyfin.png)
 
 ### Transcoding Media
 
@@ -287,6 +291,8 @@ Download and install [Kodi](https://kodi.tv/).
 This should be straight forward.
 
 Don't need to configure any library sources on Kodi. We will do that using Jellyfin + Kodi.
+
+![Kodi Movies page](/media/kodi.png)
 
 ### Jellyfin + Kodi
 
