@@ -8,7 +8,6 @@ date: 2024-08-19
 
 <aside>
 ⚠️ DISCLAIMER: Author of this article is not responsible for the actions of the reader.
-
 Follow proper internet safety and check how strict is your country in enforcing their internet laws.
 
 </aside>
@@ -147,6 +146,8 @@ At this point, you *should* be able to search and add movies / series.
 
 Simply, search for them on the Radarr / Sonarr UI and add them and it should start downloading.
 
+---
+
 ## Optional (but still somewhat useful) configurations
 
 ### Size Limits:
@@ -197,6 +198,8 @@ Setup a notifier bot
 
 ![Telegram notifier bot](/media/media-server-image%209.png)
 
+---
+
 ## Adding new media
 
 Search:
@@ -214,6 +217,8 @@ When added:
 If you want to manually search for a media:
 
 ![Interactive search](/media/media-server-image%2013.png)
+
+---
 
 ## How to watch
 
@@ -295,8 +300,9 @@ There are a lot of tips and tricks I've probably missed out on. I've been torren
 
 Cant really put everything in one single article. Feel free to open issues for discussion.
 
-
 ---
+
+# Other cool resources
 
 You'll find better and more in-depth guides about these services elsewhere on the internet. I'll add some of them when I come across them.
 But this is how I've done my setup and this guide can be used as a good basic config for everything.
@@ -306,8 +312,6 @@ I have Bazarr setup as well but I dont use it as much. Only use it to find subti
 
 I'll keep updating this doc whenever I get around to setup other things like Prowlarr, Jellyseer, Lidarr, etc. (Except Plex, it fucking sucks)
 
-
-# Other cool resources
 
 - [Trash Guides](https://trash-guides.info/)
 - [Servarr Wiki](https://wiki.servarr.com/)
