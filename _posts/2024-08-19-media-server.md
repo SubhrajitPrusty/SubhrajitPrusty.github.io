@@ -60,7 +60,7 @@ Now the main setup:
 
 Example settings:
 
-![image.png](/media/media-server-image.png)
+![Example Settings](/media/media-server-image.png)
 
 ### Flaresolverr
 
@@ -98,7 +98,7 @@ Setup some popular public indexers.
     - Keep the one that is working for you.
     - For example, for YTS, this is the configuration I have to use.
     
-    ![image.png](/media/media-server-image%201.png)
+    ![Add indexer dialogue](/media/media-server-image%201.png)
     
 
 Click on "Test All" to test the indexers are working or not.
@@ -123,7 +123,7 @@ Setting up Radarr and Sonarr is quite similar. So this section should cover both
     - Click on "Test" button to test if the connection works.
         - If your connection does not work, check your settings on qbittorrent Web UI.
 
-![image.png](/media/media-server-image%202.png)
+![Download clients settings](/media/media-server-image%202.png)
 
 **Optional**:
 
@@ -131,7 +131,7 @@ If you check the "Remove Completed" option, Radarr will delete torrent entries a
 
 This is good (for most) but it will also make it so that seeding is stopped for the same torrent; which is not good.
 
-![image.png](/media/media-server-image%203.png)
+![Download client settings dialogue](/media/media-server-image%203.png)
 
 - Setup Indexers
     - Add a new indexer
@@ -140,7 +140,7 @@ This is good (for most) but it will also make it so that seeding is stopped for 
     - Goto Jackett UI and copy the API Key at the top; Paste this in the API Key section
     - Click on Test to test the connection. Then Save.
     
-    ![image.png](/media/media-server-image%204.png)
+    ![Add indexer dialogue](/media/media-server-image%204.png)
     
 
 At this point, you *should* be able to search and add movies / series.
@@ -157,11 +157,11 @@ Unless you want to download a 2k resolution movie that is like 50GB or something
 
 You can setup limits like this:
 
-![image.png](/media/media-server-image%205.png)
+![Size limits in quality settings page](/media/media-server-image%205.png)
 
 Example:
 
-![image.png](/media/media-server-image%206.png)
+![Size limit warning in interactive search results](/media/media-server-image%206.png)
 
 <aside>
 💡 This will limit your choices when auto downloading some titles. When that happens you can choose to override the limit and download anyway.
@@ -170,37 +170,50 @@ Example:
 
 Quality profiles:
 
-![image.png](/media/media-server-image%207.png)
+![Quality Profiles page](/media/media-server-image%207.png)
+
+
+### Language Profiles (Sonarr)
+
+This is kind of annoying, but if you want to download non-english TV series or any Anime, make sure to add a new Language profile in the profiles section.
+
+Also make sure to select this Language profile when adding new series to Sonarr otherwise it will never find your show.
+
+![I have selected every language option here](/media/media-server-image%2015.png)
+
+Adding a french TV Series here as example:
+![Adding a french TV Series here as example](/media/media-server-image%2016.png)
+
 
 ### Search filters:
 
 You can setup filters and use them while using Interactive Search:
 
-![image.png](/media/media-server-image%208.png)
+![Interactive search filter](/media/media-server-image%208.png)
 
 ### Telegram Bot:
 
 Setup a notifier bot
 
-![image.png](/media/media-server-image%209.png)
+![Telegram notifier bot](/media/media-server-image%209.png)
 
 ## Adding new media
 
 Search:
 
-![image.png](/media/media-server-image%2010.png)
+![Movie search screen](/media/media-server-image%2010.png)
 
 And add:
 
-![image.png](/media/media-server-image%2011.png)
+![Movie add dialogue](/media/media-server-image%2011.png)
 
 When added:
 
-![image.png](/media/media-server-image%2012.png)
+![Movie page](/media/media-server-image%2012.png)
 
 If you want to manually search for a media:
 
-![image.png](/media/media-server-image%2013.png)
+![Interactive search](/media/media-server-image%2013.png)
 
 ## How to watch
 
@@ -254,7 +267,7 @@ If you want to disable transcoding, you will have to disable it for a user.
 
 Goto Dashboard → Users → Select the user you want to disable transcoding for and uncheck these options:
 
-![image.png](/media/media-server-image%2014.png)
+![Transcoding settings](/media/media-server-image%2014.png)
 
 This will completely disable transcoding for that user. So, they cannot play unsupported formats directly from their Jellyfin app.
 
