@@ -1,5 +1,5 @@
 title: Subhrajit Prusty
-url: "https://subhrajitpy.me"
+url: "https://subhrajitprusty.github.io/"
 baseurl: "/"
 
 markdown: kramdown
@@ -22,8 +22,8 @@ nav:
    link: "public/cv.pdf"
  - name: Youtube
    link: /youtube
- - name: "Donate"
-   link: "donate"
+ - name: "Blog"
+   link: /blogs
 
 
 js: app.js
