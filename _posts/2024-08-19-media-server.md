@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Why Pay for Streaming? Build Your Own Media Server at Home"
+title: "Streaming subscriptions are worse than cable. Solution: Build Your Own Media Server at Home"
 date: 2024-08-19
 ---
 
-# Why Pay for Streaming? Build Your Own Media Server at Home
+# Streaming subscriptions are worse than cable. Solution: Build Your Own Media Server at Home
 
 <aside>
 ⚠️ DISCLAIMER: Author of this article is not responsible for the actions of the reader.
@@ -14,6 +14,7 @@ Follow proper internet safety and check how strict is your country in enforcing 
 
 ## Why?
 
+- Streaming subscriptions have become worse than cable TV.
 - ***Because if buying isn't owning, piracy isn't stealing.***
 - You're a hoarder like me.
 
